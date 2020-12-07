@@ -1,0 +1,13 @@
+C:\Users\johaas\source\repos\JenkinsTest\JenkinsTest\bin\Debug\netcoreapp3.1\JenkinsTest.exe
+C:\Users\johaas\source\repos\JenkinsTest\JenkinsTest\bin\Debug\netcoreapp3.1\JenkinsTest.deps.json
+C:\Users\johaas\source\repos\JenkinsTest\JenkinsTest\bin\Debug\netcoreapp3.1\JenkinsTest.runtimeconfig.json
+C:\Users\johaas\source\repos\JenkinsTest\JenkinsTest\bin\Debug\netcoreapp3.1\JenkinsTest.runtimeconfig.dev.json
+C:\Users\johaas\source\repos\JenkinsTest\JenkinsTest\bin\Debug\netcoreapp3.1\JenkinsTest.dll
+C:\Users\johaas\source\repos\JenkinsTest\JenkinsTest\bin\Debug\netcoreapp3.1\JenkinsTest.pdb
+C:\Users\johaas\source\repos\JenkinsTest\JenkinsTest\obj\Debug\netcoreapp3.1\JenkinsTest.csprojAssemblyReference.cache
+C:\Users\johaas\source\repos\JenkinsTest\JenkinsTest\obj\Debug\netcoreapp3.1\JenkinsTest.AssemblyInfoInputs.cache
+C:\Users\johaas\source\repos\JenkinsTest\JenkinsTest\obj\Debug\netcoreapp3.1\JenkinsTest.AssemblyInfo.cs
+C:\Users\johaas\source\repos\JenkinsTest\JenkinsTest\obj\Debug\netcoreapp3.1\JenkinsTest.csproj.CoreCompileInputs.cache
+C:\Users\johaas\source\repos\JenkinsTest\JenkinsTest\obj\Debug\netcoreapp3.1\JenkinsTest.dll
+C:\Users\johaas\source\repos\JenkinsTest\JenkinsTest\obj\Debug\netcoreapp3.1\JenkinsTest.pdb
+C:\Users\johaas\source\repos\JenkinsTest\JenkinsTest\obj\Debug\netcoreapp3.1\JenkinsTest.genruntimeconfig.cache
