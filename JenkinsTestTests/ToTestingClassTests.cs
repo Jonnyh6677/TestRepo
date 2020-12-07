@@ -15,5 +15,12 @@ namespace JenkinsTest.Tests
             var testee = new ToTestingClass();
             Assert.AreEqual(0, testee.ReturnZero());
         }
+
+        [TestMethod()]
+        public void ReturnZeroTest2()
+        {
+            var testee = new ToTestingClass();
+            Assert.AreEqual(0, testee.ReturnZero());
+        }
     }
 }
